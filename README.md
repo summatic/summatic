@@ -1,5 +1,5 @@
 ### Currently working on🧑‍💻
-ML Engineer @ AITRICS
+ML Engineer @ GenGenAI
 
 
 ### Tech Stack📚
